@@ -1,0 +1,10 @@
+# Test coverage files
+coverage.out
+*.coverprofile
+
+# Build artifacts
+cmd/*/modeminfo
+cmd/*/phonebook
+cmd/*/sendsms
+cmd/*/ussd
+cmd/*/waitsms
